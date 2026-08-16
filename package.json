@@ -4,13 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "node index.js"  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
     "json-server": "^1.0.0-beta.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nivakclt/e-cart-be.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nivakclt/e-cart-be/issues"
+  },
+  "homepage": "https://github.com/nivakclt/e-cart-be#readme"
 }
